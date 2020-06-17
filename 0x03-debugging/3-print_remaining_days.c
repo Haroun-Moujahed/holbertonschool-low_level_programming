@@ -18,7 +18,7 @@ void print_remaining_days(int month, int day, int year)
 		{
 			day++;
 		}
-		if (month == 3 && day == 1)
+		if (month == 3 && day == 60)
 		{
 			day++;
 		}
